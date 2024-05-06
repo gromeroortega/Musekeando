@@ -1,0 +1,10 @@
+{
+    "id": "087c7f6036a045a88b892ab1e3e75029",
+    "secret": "f8a64c9b286f41cb9e5b3f7066b3fccd",
+    "redirectUrl": "musickeando:/",
+    "scope": [
+        "playlist-modify-public",
+        "playlist-read-private",
+        "playlist-modify-private"
+    ]
+}
